@@ -1,0 +1,2 @@
+scoreboard objectives add x1_qs_trigger dummy
+scoreboard objectives add x1_qs_item_count dummy
