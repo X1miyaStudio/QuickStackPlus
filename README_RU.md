@@ -1,5 +1,12 @@
 # QuickStack+
 
+<p align="left">
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/Language-English-0D1117?style=flat-square&logo=googletranslate&logoColor=white" alt="English Version" />
+  </a>
+  <img src="https://img.shields.io/badge/%D0%AF%D0%B7%D1%8B%D0%BA-%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-00FF88?style=flat-square" alt="Русский" />
+</p>
+
 QuickStack+ одним нажатием переносит совпадающие стаки из инвентаря в ближайшие хранилища. Контейнер получает только те предметы, которые уже в нём есть, поэтому порядок сохраняется.
 
 ## Возможности
